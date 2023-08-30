@@ -16,6 +16,7 @@
   "homepage": "https://github.com/SuYxh/fe-interview#readme",
   "author": "dahuang <1806328384@qq.com>",
   "scripts": {
+    "serve": "vite",
     "dev": "cross-env NODE_ENV=development vitepress dev docs",
     "build": "vitepress build docs",
     "build:github": "cross-env APP_BASE_PATH=/fe-interview/ npm run build",
@@ -31,6 +32,7 @@
     "prettier": "^2.8.4",
     "sass": "^1.58.3",
     "sitemap": "^7.1.1",
+    "vite": "^4.4.9",
     "vitepress": "1.0.0-alpha.60",
     "vue": "^3.2.47"
   },
