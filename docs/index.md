@@ -11,10 +11,10 @@ hero:
     alt: fe-interview
   actions:
     - text: Go -->
-      link: /fe/es6/
-    - text: 前端导航
-      link: /nav
-      theme: alt
+      link: /fe/javascript/index
+    # - text: 前端导航
+    #   link: /nav
+    #   theme: alt
 # features:
 #   - icon: 📖
 #     title: 前端基础
